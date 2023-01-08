@@ -1,2 +1,2 @@
-hola, como va?
-este es mi primera prueba
+var hola, como va?
+esto es un archivo de prueba
